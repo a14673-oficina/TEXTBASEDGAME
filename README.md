@@ -1,7 +1,7 @@
 <h1>TextBasedGame<h1>
 print(f"{'Seja bem-vindo a Floresta Encantada!' :^65}")
 
-NomeJ = input("Qual vai ser o nome do Jogador?: ")
+(NomeJ = input("Qual vai ser o nome do Jogador?: ")
 print(f"{NomeJ}! Queres Iniciar o Jogo?")
 IniciarJogo = str(input("Sim (S) ou Não (N)?: "))
 IniciarJogo1 = IniciarJogo.lower()
@@ -22,4 +22,4 @@ if IniciarJogo1 == "s":
   elif direção1 == "e":
     print()
 elif IniciarJogo1 == "n":
-  print("O jogo foi cancelado")
+  print("O jogo foi cancelado"))
