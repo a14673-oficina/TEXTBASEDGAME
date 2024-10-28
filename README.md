@@ -1,5 +1,6 @@
 <h1>TextBasedGame<h1>
-- Projeto de jogo de phyton:
+
+ - Projeto de jogo de phyton:
 
 - Introdução - 
 
