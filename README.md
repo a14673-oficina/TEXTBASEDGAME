@@ -1,16 +1,16 @@
 <h1>TextBasedGame<h1>
 ------------------------------------------------------------------------------
- - Projeto de jogo de phyton:
+ Projeto de jogo de phyton:
 
 - Introdução - 
 
-- Pede o nome ao jogador -
+Pede o nome ao jogador -
 
-- Pregunta ao jogador se quer ou não iniciar o jogo -
+Pregunta ao jogador se quer ou não iniciar o jogo -
 
 <O Jogo iniciou>
 
- - Perguntar ao jogador se quer entrar pela entrar - ( Direita ou esquerda)
+Perguntar ao jogador se quer entrar pela entrar - ( Direita ou esquerda)
 
 se Direita|
 
