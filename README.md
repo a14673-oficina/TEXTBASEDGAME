@@ -1,8 +1,8 @@
 <h1>TextBasedGame<h1>
 
-Visão geral do jogo
+## **Visão geral do jogo**
 
--A Floresta Encantada é um jogo, onde o jogador explora uma floresta com vários finais diferentes.
+A Floresta Encantada é um jogo, onde o jogador explora uma floresta com vários finais diferentes.
 O objetivo é encontrar o final que conclui o primeiro capitulo tomando as decisões certas,como tal um dos caminhos o jogador enfrenta uma criatura estranha.
 Este jogo oferece uma experiência leve.
 
