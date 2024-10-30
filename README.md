@@ -1,5 +1,6 @@
 <h1>TextBasedGame<h1>
-
+**Portugueses (Português Portugal)**
+  
 ## **Visão geral do jogo**
 
 A Floresta Encantada é um jogo, onde o jogador explora uma floresta com vários finais diferentes.
@@ -56,6 +57,8 @@ Gestão de Escolhas Inválidas: Um dos primeiros problemas foi garantir que o jo
 Manutenção da Estrutura do Código: À medida que o jogo crescia, o código ficava difícil de ler e atualizar. A solução foi dividir o código em funções para cada segmento do jogo, como iniciar_jogo() e caminho_direita().
 
 ## **Conclusão**
+
+**English**
 
 No desenvolvimento de Floresta Encantada (Capítulo 1), aprendi a importância de uma estrutura de código clara e modular. No futuro, pretendo:
 Aprofundar Narrativa e Decisões: Fazer com que escolhas anteriores impactem eventos futuros, tornando a história mais envolvente.
