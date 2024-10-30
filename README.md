@@ -58,11 +58,11 @@ Manutenção da Estrutura do Código: À medida que o jogo crescia, o código fi
 
 ## **Conclusão**
 
-**English**
-
 No desenvolvimento de Floresta Encantada (Capítulo 1), aprendi a importância de uma estrutura de código clara e modular. No futuro, pretendo:
 Aprofundar Narrativa e Decisões: Fazer com que escolhas anteriores impactem eventos futuros, tornando a história mais envolvente.
 Caso o jogo siga para novos capítulos, levará tempo para manter e expandir a qualidade, mas o projeto tem potencial para crescer.
+
+## **English**
 
 # Game Overview
 
