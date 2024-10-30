@@ -28,7 +28,7 @@ e à esquerda (porta de ferro a ser inspecionada). Cada escolha leva a diferente
 
 ## **Técnicas de Implementação**
 
-**Estrutura do Código.**
+## **Estrutura do Código.**
 
 A estrutura do código de Floresta Encantada pode ser organizada em funções para facilitar a leitura e manutenção:
 iniciar_jogo(): Apresenta a introdução e pergunta se o jogador deseja começar.
