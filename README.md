@@ -6,13 +6,13 @@ A Floresta Encantada é um jogo, onde o jogador explora uma floresta com vários
 O objetivo é encontrar o final que conclui o primeiro capitulo tomando as decisões certas,como tal um dos caminhos o jogador enfrenta uma criatura estranha.
 Este jogo oferece uma experiência leve.
 
-Onde surgiu a ideia para o jogo.
+## **Onde surgiu a ideia para o jogo.**
 
 A ideia para o jogo veio de um colega que sugeriu um enredo com escolhas e finais diferentes.
 
-Descrição do Jogo
+## **Descrição do Jogo**
 
-Principais funcionalidades e mecânicas do jogo.
+**Principais funcionalidades e mecânicas do jogo.**
 
 Escolhas e Caminhos: Decisões que afetam a aventura e levam a diferentes cenários.
 
@@ -20,14 +20,14 @@ Ações de Sobrevivência: Escolhas de lutar, fugir e usar itens ou trágicos.
 
 Finais Variados: Deferentes desfechos com finais, normais ou de morte.
 
-Estrutura narrativa e a lógica das escolhas.
+**Estrutura narrativa e a lógica das escolhas.**
 
 O jogo permite que o jogador escolha entre dois caminhos principais: á direita (cabana sombria com uma entidade)
 e à esquerda (porta de ferro a ser inspecionada). Cada escolha leva a diferentes ações e desfechos — felizes e trágicos com uma mensagem genérica no caso de perder “game over”. Essa estrutura cria uma aventura com múltiplos finais.
 
-Técnicas de Implementação
+## **Técnicas de Implementação**
 
-Estrutura do Código.
+**Estrutura do Código.**
 
 A estrutura do código de Floresta Encantada pode ser organizada em funções para facilitar a leitura e manutenção:
 iniciar_jogo(): Apresenta a introdução e pergunta se o jogador deseja começar.
