@@ -1,5 +1,5 @@
 <h1>TextBasedGame<h1>
-**Portugueses (Português Portugal)**
+Portugueses (Português Portugal)
   
 ## **Visão geral do jogo**
 
