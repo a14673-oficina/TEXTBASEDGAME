@@ -5,7 +5,7 @@ Portugueses (Português Portugal)
 
 Bem-vindo à continuação da tua aventura na Floresta Encantada! 
 
-## **Data de Lançamento:** [Insere a data aqui]
+## **Data de Lançamento:** [16/12/2024]
 
 ### **Novidades no Capítulo 2**
 - **Inventário:** Coleciona itens e usa-os para progredir na aventura.
@@ -14,23 +14,6 @@ Bem-vindo à continuação da tua aventura na Floresta Encantada!
 
 ### **Como Jogar**
 Podes continuar a partir do Capítulo 1 ou iniciar diretamente o Capítulo 2. Faz escolhas sábias para explorar os caminhos mais seguros ou descobre finais inesperados!
-
----
-
-# Enchanted Forest - Chapter 2
-
-Welcome to the continuation of your adventure in the Enchanted Forest! 
-
-## **Release Date:** [Insert the date here]
-
-### **What's New in Chapter 2**
-- **Inventory:** Collect items and use them to progress in the adventure.
-- **Custom Endings:** Unique and funny endings based on your choices.
-- **Improved Code:** More modular structure to facilitate future expansions.
-
-### **How to Play**
-You can continue from Chapter 1 or start directly with Chapter 2. Make wise choices to explore safer paths or discover unexpected endings!
-
   
 ## **Visão geral do jogo**
 
@@ -95,6 +78,19 @@ Caso o jogo siga para novos capítulos, levará tempo para manter e expandir a q
 
 ## **English**
 
+# Enchanted Forest - Chapter 2
+
+Welcome to the continuation of your adventure in the Enchanted Forest! 
+
+## **Release Date:** [16/12/2024]
+
+### **What's New in Chapter 2**
+- **Inventory:** Collect items and use them to progress in the adventure.
+- **Custom Endings:** Unique and funny endings based on your choices.
+- **Improved Code:** More modular structure to facilitate future expansions.
+
+### **How to Play**
+You can continue from Chapter 1 or start directly with Chapter 2. Make wise choices to explore safer paths or discover unexpected endings!
 # Game Overview
 
 **The Enchanted Forest** is a game where the player explores a forest with multiple endings. The objective is to find the ending that concludes the first chapter by making the right decisions. Along one of the paths, the player encounters a strange creature. This game offers a lighthearted experience.
