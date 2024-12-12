@@ -1,5 +1,36 @@
 <h1>TextBasedGame<h1>
 Portugueses (Português Portugal)
+
+# Floresta Encantada - Capítulo 2
+
+Bem-vindo à continuação da tua aventura na Floresta Encantada! 
+
+## **Data de Lançamento:** [Insere a data aqui]
+
+### **Novidades no Capítulo 2**
+- **Inventário:** Coleciona itens e usa-os para progredir na aventura.
+- **Finais Personalizados:** Finais únicos e engraçados baseados nas tuas escolhas.
+- **Código Melhorado:** Estrutura mais modular para facilitar futuras expansões.
+
+### **Como Jogar**
+Podes continuar a partir do Capítulo 1 ou iniciar diretamente o Capítulo 2. Faz escolhas sábias para explorar os caminhos mais seguros ou descobre finais inesperados!
+
+---
+
+# Enchanted Forest - Chapter 2
+
+Welcome to the continuation of your adventure in the Enchanted Forest! 
+
+## **Release Date:** [Insert the date here]
+
+### **What's New in Chapter 2**
+- **Inventory:** Collect items and use them to progress in the adventure.
+- **Custom Endings:** Unique and funny endings based on your choices.
+- **Improved Code:** More modular structure to facilitate future expansions.
+
+### **How to Play**
+You can continue from Chapter 1 or start directly with Chapter 2. Make wise choices to explore safer paths or discover unexpected endings!
+
   
 ## **Visão geral do jogo**
 
