@@ -1,7 +1,7 @@
 <h1>TextBasedGame<h1>
 Portugueses (Português Portugal)
 
-# Floresta Encantada - Capítulo 2
+# Floresta Encantada - Capítulo 2 - Brevemente!
 
 Bem-vindo à continuação da tua aventura na Floresta Encantada! 
 
@@ -78,7 +78,7 @@ Caso o jogo siga para novos capítulos, levará tempo para manter e expandir a q
 
 ## **English**
 
-# Enchanted Forest - Chapter 2
+# Enchanted Forest - Chapter 2 - Coming Soon!
 
 Welcome to the continuation of your adventure in the Enchanted Forest! 
 
