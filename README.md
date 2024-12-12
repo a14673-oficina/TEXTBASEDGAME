@@ -5,7 +5,7 @@ Portugueses (Português Portugal)
 
 Bem-vindo à continuação da tua aventura na Floresta Encantada! 
 
-## **Data de Lançamento:** [16/12/2024]
+## **Data de Lançamento:** [2025]
 
 ### **Novidades no Capítulo 2**
 - **Inventário:** Coleciona itens e usa-os para progredir na aventura.
@@ -82,7 +82,7 @@ Caso o jogo siga para novos capítulos, levará tempo para manter e expandir a q
 
 Welcome to the continuation of your adventure in the Enchanted Forest! 
 
-## **Release Date:** [16/12/2024]
+## **Release Date:** [2025]
 
 ### **What's New in Chapter 2**
 - **Inventory:** Collect items and use them to progress in the adventure.
