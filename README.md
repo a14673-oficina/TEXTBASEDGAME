@@ -5,7 +5,7 @@ Portugueses (Português Portugal)
 
 Bem-vindo à continuação da tua aventura na Floresta Encantada! 
 
-## **Data de Lançamento:** [2025]
+## **Data de Lançamento:** [22-01-2025]
 
 ### **Novidades no Capítulo 2**
 - **Inventário:** Coleciona itens e usa-os para progredir na aventura.
