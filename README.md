@@ -144,5 +144,7 @@ In developing **Enchanted Forest (Chapter 1)**, I learned the importance of a cl
 - **Deepen Narrative and Decisions:** Make previous choices impact future events, making the story more engaging.
 - If the game moves on to new chapters, it will take time to maintain and expand quality, but the project has the potential to grow.
 
+With the help of ChatGPT
+
 
 
