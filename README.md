@@ -74,6 +74,8 @@ No desenvolvimento de Floresta Encantada (Capítulo 1), aprendi a importância d
 Aprofundar Narrativa e Decisões: Fazer com que escolhas anteriores impactem eventos futuros, tornando a história mais envolvente.
 Caso o jogo siga para novos capítulos, levará tempo para manter e expandir a qualidade, mas o projeto tem potencial para crescer.
 
+## Com ajuda do ChatGPT
+
 ## **English**
 
 # Enchanted Forest - Chapter 2 - Out Now!
